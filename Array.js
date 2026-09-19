@@ -55,3 +55,8 @@ console.log(e1);
 step2: 2*2 =4
 step3: 3*2 = 6
 step4: 4*2=8*/
+
+let a=1
+let b=2
+let c=3
+console.log(a);
